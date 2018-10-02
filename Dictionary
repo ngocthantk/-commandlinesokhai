@@ -1,1 +1,10 @@
 
+package btl;
+
+import java.util.ArrayList;
+import java.util.HashSet;
+import java.util.Set;
+
+public class Dictionary {
+    public ArrayList<Word> arrWord = new ArrayList<Word>();
+}
